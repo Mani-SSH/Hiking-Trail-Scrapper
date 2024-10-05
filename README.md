@@ -10,8 +10,8 @@ This project scrapes hiking trail data from websites that provide information ab
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/crusty-crab/Trails-in-Nepal_Scrapper.git
-   cd hiking-trails-scraper
+   git clone https://github.com/crusty-crab/Hiking-Trail-Scrapper.git
+   cd Hiking-Trails-Scrapper
    ```
 
 2. Install dependencies:
