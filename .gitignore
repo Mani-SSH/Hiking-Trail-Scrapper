@@ -5,8 +5,11 @@
 .venv/
 __pycache__/
 
-#Ignore .env files
+# Ignore .env files
 .env
 
-#Ignore Google API Json
+# Ignore Google API JSON files
 /config/*.json
+
+# Ignore other potential sensitive files
+# You can add more patterns here if needed
