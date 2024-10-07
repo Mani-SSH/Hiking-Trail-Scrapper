@@ -4,3 +4,9 @@
 # Ignore virtual environments
 .venv/
 __pycache__/
+
+#Ignore .env files
+.env
+
+#Ignore Google API Json
+/config/*.json
