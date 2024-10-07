@@ -11,5 +11,3 @@ __pycache__/
 # Ignore Google API JSON files
 /config/*.json
 
-# Ignore other potential sensitive files
-# You can add more patterns here if needed

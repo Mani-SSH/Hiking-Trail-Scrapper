@@ -23,7 +23,7 @@ if response.status_code == 200:
         print("Could not find the trek list section.")
 
     # Set the file path relative to the current script
-    file_path = f'{os.getcwd()}/Data/raw_data.csv'
+    file_path = '../Data/raw_data.csv'
 
     # Check and create the directory if it doesn't exist
     if not os.path.exists(os.path.dirname(file_path)):
